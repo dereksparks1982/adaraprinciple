@@ -4,6 +4,8 @@
 
 **No person has an inherent right to rule over another.** Adara is a voluntary ethical philosophy and not a government of compulsory obedience.
 
+These tenets guide conduct toward other people, not religious worship or belief. They do not demand that anyone renounce God or their faith, nor do they treat Earth as a deity. Care for the world people inhabit serves the people who live here and those who will follow.
+
 ### I. The Law of Common Benefit
 
 > No individual shall enrich themselves, pursue glory, or satisfy personal ambition through activities that impose disproportionate suffering, danger, or deprivation upon others.
@@ -52,7 +54,7 @@ This tenet was **adopted**, not left in draft. Detailed procedures, such as jury
 
 > Each person should have a genuine opportunity to pursue useful work suited to their interests and abilities, and each person should have access to life's necessities according to need. The community shall coordinate its resources for shared well-being without treating anyone as property or making livelihood conditional on obedience.
 
-This wording expresses the later discussion of shared grain, access to essentials without ordinary wages, opportunity to develop a beloved vocation, and limits on compulsory job assignment. A child who wants to become an astronaut should not encounter arbitrary barriers to learning or qualifying; however, public resources devoted to a profession must be weighed against community needs. The proposed Adara priority is **practical betterment of Earth and its people**, not prestige-driven spaceflight. This does not require ignoring terrestrial benefits that some space technology can provide.
+This wording expresses the later discussion of shared grain, access to essentials without ordinary wages, opportunity to develop a beloved vocation, and limits on compulsory job assignment. A child who wants to become an astronaut should not encounter arbitrary barriers to learning or qualifying; however, public resources devoted to a profession must be weighed against community needs. The proposed Adara priority is **practical betterment of people living on Earth**, not prestige-driven spaceflight. This does not require ignoring terrestrial benefits that some space technology can provide.
 
 See [ECONOMY.md](ECONOMY.md) for the model and unresolved practical questions.
 

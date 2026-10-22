@@ -2,6 +2,8 @@
 
 Adara is a new combination of longstanding ideas, not a claim to have invented those ideas. These sources are explanatory references, **not** authorities that automatically determine Adara's tenets. The distinctions are as important as the similarities.
 
+Adara makes no theological claims and does not ask believers to abandon their faith. It is a philosophy of conduct toward other people, compatible with religious or nonreligious convictions; Earth is the setting of human responsibility, not a being to worship.
+
 ## 1. Altruism — concern for others
 
 **Idea:** People can be motivated by another person's welfare for its own sake.
@@ -66,7 +68,7 @@ Adara is a new combination of longstanding ideas, not a claim to have invented t
 
 **How Adara uses it:** People find useful work, develop their abilities, and share access to necessities instead of receiving a narrow wage for each service.
 
-**Where Adara differs:** The sovereignty tenet rules out treating people as labor owned by a ruling authority. It also prioritizes work that benefits Earth and its inhabitants over prestige projects with little public use.
+**Where Adara differs:** The sovereignty tenet rules out treating people as labor owned by a ruling authority. It also prioritizes work that benefits people and communities on Earth over prestige projects with little public use.
 
 **Sources:** [Karl Marx, Critique of the Gotha Programme](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm) · [Stanford Encyclopedia: Needs](https://plato.stanford.edu/entries/needs/) · [Stanford Encyclopedia: Socialism](https://plato.stanford.edu/entries/socialism/) · [Stanford Encyclopedia: Anarchism](https://plato.stanford.edu/entries/anarchism/).
 

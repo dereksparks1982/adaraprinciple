@@ -2,7 +2,7 @@
 
 > Leave the world better than you found it.
 
-**A voluntary philosophy of individual sovereignty, communal justice, mutual responsibility, and leaving the world better than we found it.**
+**A voluntary philosophy of individual sovereignty, communal justice, mutual responsibility, and improving life for people today and generations to come.**
 
 [**Explore the website**](https://dereksparks1982.github.io/adaraprinciple/) · [**Founding tenets**](TENETS.md) · [**Philosophical lineage**](LINEAGE.md) · [**Economic vision**](ECONOMY.md) · [**Communal justice**](JUSTICE.md) · [**Founding record**](HISTORY.md)
 
@@ -11,6 +11,12 @@
 > **No person has an inherent right to rule over another.**
 
 The Adara Principle is a developing philosophical tradition established in discussion on **October 16, 2026**. It is not a government, a new deity, or a claim to political authority. Its purpose is to bring individual freedom into a productive relationship with mutual aid, accountability, and the long-term betterment of humanity.
+
+## Faith and purpose
+
+Adara concerns **how people treat one another**, not whom they worship. It is not a religion, and it neither affirms nor denies the existence of God. Following Adara does not require someone to set aside their faith: believers may see its teachings about justice, mercy, responsibility, and care for creation as consistent with their religious duties. People of other beliefs or no religious faith can also follow its principles voluntarily.
+
+References to Earth describe the shared home of people and future generations. The planet is **not** an object of worship, and environmental care is a practical responsibility toward those who depend on its land, water, and resources.
 
 ## The eight tenets
 

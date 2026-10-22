@@ -22,6 +22,8 @@ This is a thematic summary of the founding discussion, **not a verbatim transcri
 
 **Development convention.** The founder directed that new tenets be taken as accepted unless explicitly rejected or held for reconsideration. This living philosophy may be revised, but the text of the first six tenets is preserved.
 
+**Clarification of purpose — October 22, 2026.** The founder clarified that Adara is about conduct toward people who reside on Earth, not worship of the Earth or rejection of God. Believers may understand Adara’s duties as care for the Creator’s creation, while participation remains open to people of any or no faith. The public-facing description was revised from “in service of the Earth” to “in service of the people who reside on this Earth.” The eight adopted tenets remain unchanged.
+
 ---
 
 The next task is not adding hundreds of slogans. It is testing the principles against reality and documenting the results.
